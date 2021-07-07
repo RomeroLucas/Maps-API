@@ -1,0 +1,17 @@
+.entregas ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.entregas ul li {
+    margin-top: 15px;
+    width: 90%;
+    cursor: pointer;
+    transition: .2s;
+}
+
+.entregas ul li:hover {
+    background-color: aqua;
+}

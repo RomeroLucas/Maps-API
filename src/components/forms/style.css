@@ -1,0 +1,25 @@
+.formulario-geral {
+    position: relative;
+    width: 45%;
+    min-width: 360px;
+    max-width: 500px;
+    max-height: 400px;
+    margin-top: 15px;
+    padding: 5px;
+    background-color: #f1f1f1;
+    box-shadow: 0px 0px 3px black;
+    font-weight: bolder;
+}
+
+.formulario-geral h3 {
+    text-align: center;
+}
+
+.formulario-geral .mb-3 {
+    min-height: 50px;
+}
+
+.formulario-geral .btn {
+    position: absolute;
+    right: 5%;
+}
